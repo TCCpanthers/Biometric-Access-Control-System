@@ -21,7 +21,7 @@ O backend é construído utilizando **TypeScript** e **Node.js** com o framework
 Certifique-se de ter instalado:
 
 1.  **Node.js** (versão 20 ou superior)
-2.  **npm** ou **yarn** (gerenciador de pacotes)
+2.  **npm** (gerenciador de pacotes)
 3.  **PostgreSQL** (servidor de banco de dados)
 
 ### Passos
