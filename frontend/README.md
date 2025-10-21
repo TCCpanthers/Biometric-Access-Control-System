@@ -115,7 +115,5 @@ npm test
 
 ---
 
-> Desenvolvido com ❤️ para o TCC do curso de Análise e Desenvolvimento de Sistemas  
-> ETEC Dr. Geraldo José Rodrigues Alckmin - 2025  
-> Contato: tccpanthersoficial@gmail.com
+[Voltar para o README Principal](../README.md)
 
