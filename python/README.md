@@ -141,7 +141,5 @@ Este módulo Python trabalha em conjunto com o Backend TypeScript e a Interface 
 
 ---
 
-> Desenvolvido com ❤️ para o TCC do curso de Análise e Desenvolvimento de Sistemas  
-> ETEC Dr. Geraldo José Rodrigues Alckmin - 2025  
-> Contato: tccpanthersoficial@gmail.com
+[Voltar para o README Principal](../README.md)
 
