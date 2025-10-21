@@ -98,7 +98,4 @@ Este módulo C++ é a ponte entre o hardware (sensor R307) e os softwares de bac
 
 ---
 
-> Desenvolvido com ❤️ para o TCC do curso de Análise e Desenvolvimento de Sistemas  
-> ETEC Dr. Geraldo José Rodrigues Alckmin - 2025  
-> Contato: tccpanthersoficial@gmail.com
-
+[Voltar para o README Principal](../README.md)
