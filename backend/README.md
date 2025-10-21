@@ -34,7 +34,6 @@ Certifique-se de ter instalado:
 2.  **Instale as dependências:**
     ```bash
     npm install
-    # ou yarn install
     ```
 
 3.  **Configure as variáveis de ambiente:**
